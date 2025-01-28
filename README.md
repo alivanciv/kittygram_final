@@ -10,6 +10,8 @@
 
 **Kittygram** | [13sprint2024.mooo.com]
 
+БОЛЕЕ НЕДОСТУПНО
+
 
 ## Технологии
  - django v3.2
